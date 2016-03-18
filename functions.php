@@ -5,12 +5,6 @@ $navmenus = array(
 	'Main Menu'
 );
 
-//widget areas
-$widgetareas = array(
-	'Sidebar', 'Footer'
-);
-
- 
 
 //enable theme features
 add_theme_support('menus'); //enable menus

@@ -1,4 +1,5 @@
 ==========
 NOTES
 ==========
-
+-privacy statement
+-minify head when added responsive menu

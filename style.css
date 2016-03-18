@@ -6,34 +6,6 @@ Author: Webvolution LLC
 Author URI: http://www.webvolutionchicago.com
 Version: 2.1
 */
-/*
-NOTES:
-
-www.font2web.com
-http://everythingfonts.com/ttf-to-otf
-http://www.freefontconverter.com/
-@font-face {
-	font-family: 'HelveticaNeue';
-	src: url('includes/fonts/HelveticaNeue.eot');
-	src: local('â˜º'), url('includes/fonts/HelveticaNeue.woff') format('woff'), url('includes/fonts/HelveticaNeue.ttf') format('truetype');
-}
-
-@font-face {
-	font-family: 'HelveticaNeueMedCond';
-	src: url('includes/fonts/HelveticaNeueLTStd-BlkCn.eot');
-	src: local('â˜º'), url('includes/fonts/HelveticaNeueLTStd-BlkCn.woff') format('woff'), url('includes/fonts/HelveticaNeueLTStd-BlkCn.ttf') format('truetype'), url('includes/fonts/HelveticaNeueLTStd-BlkCn.svg') format('svg');
-	font-weight: normal;
-	font-style: normal;
-}
-
-@font-face {
-	font-family: 'HelveticaNeueBoldCond';
-	src: url('/includes/fonts/HelveticaNeueLTStd-BdCn.eot');
-	src: local('â˜º'), url('includes/fonts/HelveticaNeueLTStd-BdCn.woff') format('woff'), url('includes/fonts/HelveticaNeueLTStd-BdCn.ttf') format('truetype'), url('includes/fonts/HelveticaNeueLTStd-BdCn.svg') format('svg');
-	font-weight: normal;
-	font-style: normal;
-}
-*/
 /* normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 /**
  * 1. Set default font family to sans-serif.
@@ -459,9 +431,15 @@ a img.aligncenter {
 ===============
 config
 =============== */
-/* green */
-/* blue */
-/* red */
+/* footer */
+/* footer offset */
+/*
+$font-size-sm:			14px;
+$line-height-sm:		20px;
+
+$font-size-md:          25px;
+$line-height-md:        20px;
+*/
 /*
 ===============
 mixins
@@ -470,26 +448,166 @@ mixins
 ===============
 Style
 =============== */
+@font-face {
+  font-family: 'Playfair';
+  src: url("includes/fonts/PlayfairDisplay-Regular.eot");
+  src: local("☺"), url("includes/fonts/PlayfairDisplay-Regular.woff") format("woff"), url("includes/fonts/PlayfairDisplay-Regular.ttf") format("truetype"), url("includes/fonts/PlayfairDisplay-Regular.svg") format("svg");
+  font-weight: normal;
+  font-style: normal; }
 ._center {
   text-align: center; }
 
+._clear {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden; }
+
 body {
-  font-family: "Raleway", Verdana, Geneva, sans-serif; }
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 18px;
+  /* head */
+  /* main */
+  /* footer */
+  /* custom */
+  /* home */ }
   body a {
-    color: #6699cc; }
+    color: #e93540;
+    text-decoration: none; }
+  body h1, body h2 {
+    font-family: "Playfair", "Times New Roman", Times, serif;
+    font-weight: normal; }
   body h1 {
-    font-size: 32px;
-    line-height: 38px; }
+    font-size: 56px;
+    line-height: 15px; }
   body h2 {
-    font-size: 25px;
-    line-height: 20px; }
+    font-size: 36px;
+    line-height: 38px; }
   body img {
     width: 100%;
+    max-width: 100%;
     height: auto; }
-  body #content_body {
-    max-width: 1270px;
+  body header {
+    max-width: 950px;
+    margin: 10px auto;
+    padding-right: 10px;
+    /* look out */
+    border: thin solid #00FFFF;
+    /* sky blue */ }
+    body header img.logo {
+      float: left;
+      max-width: 113px;
+      vertical-align: middle;
+      display: -moz-inline-stack;
+      display: inline-block;
+      zoom: 1;
+      *display: inline; }
+    body header .social_media_menu {
+      max-width: 114px;
+      float: right; }
+    body header nav ul {
+      list-style-type: none;
+      margin: 70px 0 0 0;
+      padding: 0;
+      float: right;
+      display: -moz-inline-stack;
+      display: inline-block;
+      zoom: 1;
+      *display: inline; }
+    body header nav ul li {
+      margin: 0 15px;
+      display: -moz-inline-stack;
+      display: inline-block;
+      zoom: 1;
+      *display: inline; }
+      body header nav ul li:last-child {
+        margin-right: 0; }
+      body header nav ul li.current-menu-item a {
+        color: #e93540; }
+      body header nav ul li a {
+        font-weight: bold;
+        color: #000; }
+        body header nav ul li a:hover {
+          color: #e93540; }
+  body main {
+    max-width: 950px;
     margin: auto;
-    border: thin solid #1EAEDB; }
+    border: thin solid #FF0000;
+    /* red */
+    /* left side */
+    /* right side */
+    /* boxes */ }
+    body main aside {
+      max-width: 545px;
+      width: 100%;
+      margin-left: -80px;
+      margin-right: 35px;
+      float: left;
+      border: thin solid #FF1493;
+      /* deep pink */ }
+    body main article {
+      max-width: 440px;
+      width: 100%;
+      padding-top: 40px;
+      margin-right: 5px;
+      /* look out */
+      float: right;
+      border: thin solid #7FFF00;
+      /* neon green */ }
+    body main ul.boxes {
+      list-style-type: none;
+      margin: 40px 0 55px 0;
+      padding: 0; }
+    body main ul.boxes li {
+      max-width: 225px;
+      width: 100%;
+      margin: 0 4px;
+      display: -moz-inline-stack;
+      display: inline-block;
+      zoom: 1;
+      *display: inline; }
+      body main ul.boxes li:last-child {
+        margin-right: 0; }
+  body footer {
+    background-color: #000000;
+    color: #dbdbdb; }
+    body footer div {
+      margin: auto;
+      text-align: center; }
+    body footer a {
+      color: #dbdbdb; }
+    body footer img {
+      max-width: 101px;
+      vertical-align: middle;
+      display: -moz-inline-stack;
+      display: inline-block;
+      zoom: 1;
+      *display: inline;
+      margin-right: 35px; }
+    body footer ul {
+      list-style-type: none;
+      margin: 40px 0 55px 0;
+      padding: 0;
+      display: -moz-inline-stack;
+      display: inline-block;
+      zoom: 1;
+      *display: inline; }
+    body footer ul li {
+      margin: 0 1px;
+      display: -moz-inline-stack;
+      display: inline-block;
+      zoom: 1;
+      *display: inline; }
+      body footer ul li:last-child {
+        margin-right: 0; }
+  body.home .subtext {
+    color: #e93540;
+    font-size: 36px;
+    margin: 35px 0 -10px 0; }
+  body.home .north_michigan_shops {
+    max-width: 403px; }
 
 /*
 ===============

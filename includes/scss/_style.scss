@@ -3,35 +3,192 @@
 Style
 =============== */
 
+@font-face {
+  font-family: 'Playfair';
+  src: url('includes/fonts/PlayfairDisplay-Regular.eot');
+  src: local('☺'), url('includes/fonts/PlayfairDisplay-Regular.woff') format('woff'), url('includes/fonts/PlayfairDisplay-Regular.ttf') format('truetype'), url('includes/fonts/PlayfairDisplay-Regular.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
 ._center {
   text-align:center;
 }
 
+._clear {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+
 body {
-  font-family: $font-stack;
+  font-family: $font-stack-2;
+  font-size: $font-size;
+  line-height: $line-height;
 
   a {
     color: $link-color;
+    text-decoration: none;
+  }
+
+  h1, h2 {
+    font-family: $font-stack;
+    font-weight: normal;
   }
 
   h1 {
-    font-size: $font-size-lg;
-    line-height: $line-height-lg;
+    font-size: $font-size-xlg;
+    line-height: $line-height-xlg;
   }
 
   h2 {
-    font-size: $font-size-md;
-    line-height: $line-height-md;
+    font-size: $font-size-lg;
+    line-height: $line-height-lg;
   }
 
   img {
     @include responsive-img;
   }
 
-  #content_body {
+  /* head */
+  header {
+    max-width: $max-width;
+    margin: 10px auto;
+    padding-right: 10px;  /* look out */
+    @include debug5;
+
+    img.logo {
+      float:left;
+      max-width: 113px;
+      vertical-align: middle;
+      @include inline-block;
+    }
+
+
+      .social_media_menu {
+        max-width: 114px;
+        float:right;
+      }
+
+      nav {
+        ul {
+          list-style-type: none;
+          margin: 70px 0 0 0;
+          padding: 0;
+          float:right;
+          @include inline-block;
+        }
+
+        ul li {
+          margin: 0 15px;
+          @include inline-block();
+
+          &:last-child {
+            margin-right:0;
+          }
+
+          &.current-menu-item a {
+            color: $link-color;
+          }
+
+          a {
+            font-weight: bold;
+            color: #000;
+
+            &:hover {
+              color: $link-color;
+            }
+          }
+
+        }
+      }
+    }
+
+
+  /* main */
+  main {
     max-width: $max-width;
     margin: auto;
 
     @include debug;
+
+    /* left side */
+    aside {
+      max-width: 545px;
+      width: 100%;
+      margin-left: -80px;
+      margin-right: 35px;
+      float: left;
+      @include debug2;
+    }
+
+    /* right side */
+    article {
+      max-width: 440px;
+      width: 100%;
+      padding-top: 40px;
+      margin-right: 5px; /* look out */
+      float: right;
+      @include debug1;
+    }
+
+    /* boxes */
+    @include list-blocks("boxes"); //experimental
+  }
+
+  /* footer */
+  footer {
+    background-color: $primary-color;
+    color: $secondary-color;
+
+    div {
+      margin:auto;
+      text-align: center;
+    }
+
+    a {
+      color: $secondary-color;
+    }
+
+    img {
+      max-width: 101px;
+      vertical-align: middle;
+      @include inline-block;
+      margin-right: 35px;
+    }
+
+    ul {
+      list-style-type: none;
+      margin: 40px 0 55px 0;
+      padding: 0;
+      @include inline-block;
+    }
+
+      ul li {
+        margin: 0 1px;
+        @include inline-block();
+
+        &:last-child {
+          margin-right:0;
+        }
+      }
+
+
+  }
+
+  /* custom */
+
+  /* home */
+  &.home .subtext {
+    color: $link-color;
+    font-size: $font-size-lg;
+    margin: 35px 0 -10px 0;
+  }
+
+  &.home .north_michigan_shops {
+    max-width: 403px;
   }
 }

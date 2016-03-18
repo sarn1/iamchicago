@@ -38,506 +38,242 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/includes\/libs\/Bootstrap\/css\/bootstrap-theme.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/includes\/libs\/Bootstrap\/css\/bootstrap-theme.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/includes\/libs\/Bootstrap\/css\/bootstrap-theme.min.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/includes\/libs\/Bootstrap\/css\/bootstrap-theme.min.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/includes\/libs\/Bootstrap\/css\/bootstrap.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/includes\/libs\/Bootstrap\/css\/bootstrap.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/includes\/libs\/Bootstrap\/css\/bootstrap.min.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/includes\/libs\/Bootstrap\/css\/bootstrap.min.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/includes\/libs\/Bootstrap\/js\/bootstrap.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/includes\/libs\/Bootstrap\/js\/bootstrap.js",
-		"outputAbbreviatedPath": "\/includes\/libs\/Bootstrap\/js\/min\/bootstrap-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/includes\/libs\/Bootstrap\/js\/bootstrap.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/includes\/libs\/Bootstrap\/js\/bootstrap.min.js",
-		"outputAbbreviatedPath": "\/includes\/libs\/Bootstrap\/js\/min\/bootstrap.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/includes\/libs\/Bootstrap\/wp_bootstrap_navwalker.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/includes\/libs\/Bootstrap\/wp_bootstrap_navwalker.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/includes\/libs\/JQuery-Migrate\/jquery-migrate-1.1.0.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/includes\/libs\/JQuery-Migrate\/jquery-migrate-1.1.0.min.js",
-		"outputAbbreviatedPath": "\/includes\/libs\/JQuery-Migrate\/min\/jquery-migrate-1.1.0.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-bg_flat_75_aaaaaa_40x100.png": {
+	"\/includes\/images\/900_logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 180,
-		"inputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-bg_flat_75_aaaaaa_40x100.png",
-		"outputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-bg_flat_75_aaaaaa_40x100.png",
+		"initialSize": 22095,
+		"inputAbbreviatedPath": "\/includes\/images\/900_logo.png",
+		"outputAbbreviatedPath": "\/includes\/images\/900_logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-bg_glass_100_f5f0e5_1x400.png": {
+	"\/includes\/images\/Casting_Call.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41022,
+		"inputAbbreviatedPath": "\/includes\/images\/Casting_Call.jpg",
+		"outputAbbreviatedPath": "\/includes\/images\/Casting_Call.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/includes\/images\/Casting_Call.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 123,
-		"inputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-bg_glass_100_f5f0e5_1x400.png",
-		"outputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-bg_glass_100_f5f0e5_1x400.png",
+		"initialSize": 25041,
+		"inputAbbreviatedPath": "\/includes\/images\/Casting_Call.png",
+		"outputAbbreviatedPath": "\/includes\/images\/Casting_Call.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-bg_glass_25_cb842e_1x400.png": {
+	"\/includes\/images\/Casting_Call_Photo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 147049,
+		"inputAbbreviatedPath": "\/includes\/images\/Casting_Call_Photo.jpg",
+		"outputAbbreviatedPath": "\/includes\/images\/Casting_Call_Photo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/includes\/images\/Contact_Photo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 68880,
+		"inputAbbreviatedPath": "\/includes\/images\/Contact_Photo.jpg",
+		"outputAbbreviatedPath": "\/includes\/images\/Contact_Photo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/includes\/images\/I_Am_Chicago_Logo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30578,
+		"inputAbbreviatedPath": "\/includes\/images\/I_Am_Chicago_Logo.jpg",
+		"outputAbbreviatedPath": "\/includes\/images\/I_Am_Chicago_Logo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/includes\/images\/I_Am_Chicago_Logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 130,
-		"inputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-bg_glass_25_cb842e_1x400.png",
-		"outputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-bg_glass_25_cb842e_1x400.png",
+		"initialSize": 24108,
+		"inputAbbreviatedPath": "\/includes\/images\/I_Am_Chicago_Logo.png",
+		"outputAbbreviatedPath": "\/includes\/images\/I_Am_Chicago_Logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-bg_glass_70_ede4d4_1x400.png": {
+	"\/includes\/images\/Media.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29385,
+		"inputAbbreviatedPath": "\/includes\/images\/Media.jpg",
+		"outputAbbreviatedPath": "\/includes\/images\/Media.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/includes\/images\/Media.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 125,
-		"inputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-bg_glass_70_ede4d4_1x400.png",
-		"outputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-bg_glass_70_ede4d4_1x400.png",
+		"initialSize": 22706,
+		"inputAbbreviatedPath": "\/includes\/images\/Media.png",
+		"outputAbbreviatedPath": "\/includes\/images\/Media.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-bg_highlight-hard_100_f4f0ec_1x100.png": {
+	"\/includes\/images\/Media_Photo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 172210,
+		"inputAbbreviatedPath": "\/includes\/images\/Media_Photo.jpg",
+		"outputAbbreviatedPath": "\/includes\/images\/Media_Photo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/includes\/images\/MediaPage\/2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 205816,
+		"inputAbbreviatedPath": "\/includes\/images\/MediaPage\/2.jpg",
+		"outputAbbreviatedPath": "\/includes\/images\/MediaPage\/2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/includes\/images\/MediaPage\/5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4.1479e+06,
+		"inputAbbreviatedPath": "\/includes\/images\/MediaPage\/5.jpg",
+		"outputAbbreviatedPath": "\/includes\/images\/MediaPage\/5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/includes\/images\/MediaPage\/ARE YOU CHICAGO logo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 89501,
+		"inputAbbreviatedPath": "\/includes\/images\/MediaPage\/ARE YOU CHICAGO logo.jpg",
+		"outputAbbreviatedPath": "\/includes\/images\/MediaPage\/ARE YOU CHICAGO logo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/includes\/images\/MediaPage\/I AM CHICAGO.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48564,
+		"inputAbbreviatedPath": "\/includes\/images\/MediaPage\/I AM CHICAGO.jpg",
+		"outputAbbreviatedPath": "\/includes\/images\/MediaPage\/I AM CHICAGO.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/includes\/images\/Social_Media_Icons.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16419,
+		"inputAbbreviatedPath": "\/includes\/images\/Social_Media_Icons.jpg",
+		"outputAbbreviatedPath": "\/includes\/images\/Social_Media_Icons.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/includes\/images\/Social_Media_Icons.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 103,
-		"inputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-bg_highlight-hard_100_f4f0ec_1x100.png",
-		"outputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-bg_highlight-hard_100_f4f0ec_1x100.png",
+		"initialSize": 20685,
+		"inputAbbreviatedPath": "\/includes\/images\/Social_Media_Icons.png",
+		"outputAbbreviatedPath": "\/includes\/images\/Social_Media_Icons.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-bg_highlight-hard_65_fee4bd_1x100.png": {
+	"\/includes\/images\/The_FAQs.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28944,
+		"inputAbbreviatedPath": "\/includes\/images\/The_FAQs.jpg",
+		"outputAbbreviatedPath": "\/includes\/images\/The_FAQs.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/includes\/images\/The_FAQs.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 114,
-		"inputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-bg_highlight-hard_65_fee4bd_1x100.png",
-		"outputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-bg_highlight-hard_65_fee4bd_1x100.png",
+		"initialSize": 23673,
+		"inputAbbreviatedPath": "\/includes\/images\/The_FAQs.png",
+		"outputAbbreviatedPath": "\/includes\/images\/The_FAQs.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-bg_highlight-hard_75_f5f5b5_1x100.png": {
+	"\/includes\/images\/Why_Go_Local.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39261,
+		"inputAbbreviatedPath": "\/includes\/images\/Why_Go_Local.jpg",
+		"outputAbbreviatedPath": "\/includes\/images\/Why_Go_Local.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/includes\/images\/Why_Go_Local.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 147,
-		"inputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-bg_highlight-hard_75_f5f5b5_1x100.png",
-		"outputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-bg_highlight-hard_75_f5f5b5_1x100.png",
+		"initialSize": 26165,
+		"inputAbbreviatedPath": "\/includes\/images\/Why_Go_Local.png",
+		"outputAbbreviatedPath": "\/includes\/images\/Why_Go_Local.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-bg_inset-soft_100_f4f0ec_1x100.png": {
-		"fileType": 32768,
+	"\/includes\/images\/Why_Go_Local_Photo.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 113,
-		"inputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-bg_inset-soft_100_f4f0ec_1x100.png",
-		"outputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-bg_inset-soft_100_f4f0ec_1x100.png",
+		"initialSize": 173346,
+		"inputAbbreviatedPath": "\/includes\/images\/Why_Go_Local_Photo.jpg",
+		"outputAbbreviatedPath": "\/includes\/images\/Why_Go_Local_Photo.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-icons_c47a23_256x240.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4369,
-		"inputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-icons_c47a23_256x240.png",
-		"outputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-icons_c47a23_256x240.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-icons_cb672b_256x240.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 5355,
-		"inputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-icons_cb672b_256x240.png",
-		"outputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-icons_cb672b_256x240.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-icons_f08000_256x240.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4369,
-		"inputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-icons_f08000_256x240.png",
-		"outputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-icons_f08000_256x240.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-icons_f35f07_256x240.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4369,
-		"inputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-icons_f35f07_256x240.png",
-		"outputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-icons_f35f07_256x240.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-icons_ff7519_256x240.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4369,
-		"inputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-icons_ff7519_256x240.png",
-		"outputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-icons_ff7519_256x240.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-icons_ffffff_256x240.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4369,
-		"inputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-icons_ffffff_256x240.png",
-		"outputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/humanity\/images\/ui-icons_ffffff_256x240.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/includes\/libs\/JQuery-UI\/css\/humanity\/jquery-ui-1.8.24.custom.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/humanity\/jquery-ui-1.8.24.custom.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/includes\/libs\/JQuery-UI\/css\/smoothness\/images\/ui-bg_flat_0_aaaaaa_40x100.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 180,
-		"inputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/smoothness\/images\/ui-bg_flat_0_aaaaaa_40x100.png",
-		"outputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/smoothness\/images\/ui-bg_flat_0_aaaaaa_40x100.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/includes\/libs\/JQuery-UI\/css\/smoothness\/images\/ui-bg_flat_75_ffffff_40x100.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 178,
-		"inputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/smoothness\/images\/ui-bg_flat_75_ffffff_40x100.png",
-		"outputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/smoothness\/images\/ui-bg_flat_75_ffffff_40x100.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/includes\/libs\/JQuery-UI\/css\/smoothness\/images\/ui-bg_glass_55_fbf9ee_1x400.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 120,
-		"inputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/smoothness\/images\/ui-bg_glass_55_fbf9ee_1x400.png",
-		"outputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/smoothness\/images\/ui-bg_glass_55_fbf9ee_1x400.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/includes\/libs\/JQuery-UI\/css\/smoothness\/images\/ui-bg_glass_65_ffffff_1x400.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 105,
-		"inputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/smoothness\/images\/ui-bg_glass_65_ffffff_1x400.png",
-		"outputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/smoothness\/images\/ui-bg_glass_65_ffffff_1x400.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/includes\/libs\/JQuery-UI\/css\/smoothness\/images\/ui-bg_glass_75_dadada_1x400.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 111,
-		"inputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/smoothness\/images\/ui-bg_glass_75_dadada_1x400.png",
-		"outputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/smoothness\/images\/ui-bg_glass_75_dadada_1x400.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/includes\/libs\/JQuery-UI\/css\/smoothness\/images\/ui-bg_glass_75_e6e6e6_1x400.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 110,
-		"inputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/smoothness\/images\/ui-bg_glass_75_e6e6e6_1x400.png",
-		"outputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/smoothness\/images\/ui-bg_glass_75_e6e6e6_1x400.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/includes\/libs\/JQuery-UI\/css\/smoothness\/images\/ui-bg_glass_95_fef1ec_1x400.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 119,
-		"inputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/smoothness\/images\/ui-bg_glass_95_fef1ec_1x400.png",
-		"outputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/smoothness\/images\/ui-bg_glass_95_fef1ec_1x400.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/includes\/libs\/JQuery-UI\/css\/smoothness\/images\/ui-bg_highlight-soft_75_cccccc_1x100.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 101,
-		"inputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/smoothness\/images\/ui-bg_highlight-soft_75_cccccc_1x100.png",
-		"outputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/smoothness\/images\/ui-bg_highlight-soft_75_cccccc_1x100.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/includes\/libs\/JQuery-UI\/css\/smoothness\/images\/ui-icons_222222_256x240.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4369,
-		"inputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/smoothness\/images\/ui-icons_222222_256x240.png",
-		"outputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/smoothness\/images\/ui-icons_222222_256x240.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/includes\/libs\/JQuery-UI\/css\/smoothness\/images\/ui-icons_2e83ff_256x240.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4369,
-		"inputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/smoothness\/images\/ui-icons_2e83ff_256x240.png",
-		"outputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/smoothness\/images\/ui-icons_2e83ff_256x240.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/includes\/libs\/JQuery-UI\/css\/smoothness\/images\/ui-icons_454545_256x240.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4369,
-		"inputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/smoothness\/images\/ui-icons_454545_256x240.png",
-		"outputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/smoothness\/images\/ui-icons_454545_256x240.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/includes\/libs\/JQuery-UI\/css\/smoothness\/images\/ui-icons_888888_256x240.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4369,
-		"inputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/smoothness\/images\/ui-icons_888888_256x240.png",
-		"outputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/smoothness\/images\/ui-icons_888888_256x240.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/includes\/libs\/JQuery-UI\/css\/smoothness\/images\/ui-icons_cd0a0a_256x240.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4369,
-		"inputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/smoothness\/images\/ui-icons_cd0a0a_256x240.png",
-		"outputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/smoothness\/images\/ui-icons_cd0a0a_256x240.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/includes\/libs\/JQuery-UI\/css\/smoothness\/jquery-ui-1.8.24.custom.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/css\/smoothness\/jquery-ui-1.8.24.custom.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/includes\/libs\/JQuery-UI\/js\/jquery-1.8.2.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/js\/jquery-1.8.2.min.js",
-		"outputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/js\/min\/jquery-1.8.2.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/includes\/libs\/JQuery-UI\/js\/jquery-ui-1.8.24.custom.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/js\/jquery-ui-1.8.24.custom.min.js",
-		"outputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/js\/min\/jquery-ui-1.8.24.custom.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/includes\/libs\/JQuery-UI\/js\/jquery.ui.datepicker.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/js\/jquery.ui.datepicker.js",
-		"outputAbbreviatedPath": "\/includes\/libs\/JQuery-UI\/js\/min\/jquery.ui.datepicker-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 1
 		},
 	"\/includes\/libs\/Normalize\/normalize.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/includes\/libs\/Normalize\/normalize.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/includes\/libs\/Respond\/respond.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/includes\/libs\/Respond\/respond.min.js",
-		"outputAbbreviatedPath": "\/includes\/libs\/Respond\/min\/respond.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/includes\/libs\/Skeleton-2.0.4\/css\/normalize.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/includes\/libs\/Skeleton-2.0.4\/css\/normalize.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/includes\/libs\/Skeleton-2.0.4\/css\/skeleton.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/includes\/libs\/Skeleton-2.0.4\/css\/skeleton.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/includes\/libs\/Skeleton-2.0.4\/images\/favicon.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1156,
-		"inputAbbreviatedPath": "\/includes\/libs\/Skeleton-2.0.4\/images\/favicon.png",
-		"outputAbbreviatedPath": "\/includes\/libs\/Skeleton-2.0.4\/images\/favicon.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/includes\/libs\/Skeleton-2.0.4\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/includes\/libs\/Skeleton-2.0.4\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/includes\/libs\/Supersized\/supersized.core.3.2.1.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/includes\/libs\/Supersized\/supersized.core.3.2.1.min.js",
-		"outputAbbreviatedPath": "\/includes\/libs\/Supersized\/min\/supersized.core.3.2.1.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/includes\/libs\/Supersized\/supersized.core.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/includes\/libs\/Supersized\/supersized.core.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -678,7 +414,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 208349,
+		"initialSize": 295263,
 		"inputAbbreviatedPath": "\/screenshot.png",
 		"outputAbbreviatedPath": "\/screenshot.png",
 		"outputPathIsOutsideProject": 0,
