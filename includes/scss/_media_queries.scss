@@ -3,65 +3,144 @@
 Media Queries
 =============== */
 
-/*==================================================
-=            Bootstrap 3 Media Queries             =
-==================================================*/
+@media only screen and (max-width : 1125px) {
+  body {
 
+    header {
+      //padding-right:0;
+    }
 
+    h1 {
+      font-size: $font-size-lg;
+      line-height: $line-height-lg;
+    }
 
+    h2 {
+      font-size: $font-size-md;
+      line-height: $line-height-md;
+    }
 
-/*==========  Mobile First Method  ==========*/
+    main {
+      aside {
+        margin-left:0;
+        margin-right:3%;
+        @include inline-block;
+        float:none;
+        width: 47%;
 
-/* Custom, iPhone Retina */
-@media only screen and (min-width : 320px) {
+      }
 
+      article {
+        @include inline-block;
+        margin-right: 0;
+        float:none;
+        width: 47%;
+        padding-top: 0;
+      }
+    }
+
+    footer {
+      ul {
+        margin: 30px 0;
+      }
+    }
+  }
 }
 
-/* Extra Small Devices, Phones */
-@media only screen and (min-width : 480px) {
-
+@media only screen and (max-width : 1000px) {
+  body {
+    footer {
+      img {
+        display:block;
+        margin:0 auto;
+        padding-top: 20px;
+      }
+    }
+  }
 }
 
-/* Small Devices, Tablets */
-@media only screen and (min-width : 768px) {
+@media only screen and (max-width : 950px) {
+  body {
 
+    header {
+      padding: 0 15px 0 15px;
+    }
+
+    main {
+      ul.boxes {
+        margin: 30px auto 25px auto;
+        text-align: center;
+
+        li {
+          margin: 0;
+        }
+
+        img {
+          max-width: 225px;
+          width: 95%;
+        }
+      }
+    }
+  }
 }
 
-/* Medium Devices, Desktops */
-@media only screen and (min-width : 992px) {
+@media only screen and (max-width : 770px) {
+  body {
 
+      header {
+        .social_media_menu {
+          margin-bottom: 10px;
+        }
+
+        img.logo {
+          display: block;
+          float: none;
+          margin: auto;
+        }
+
+        nav {
+          margin-bottom: 70px;
+
+          ul {
+            width: 90%;
+            margin: 15px auto;
+            display:block;
+            float:none;
+          }
+        }
+      }
+
+    //responsive menu
+    #responsive-menu {
+      img {
+        width: 113px;
+      }
+    }
+  }
 }
 
-/* Large Devices, Wide Screens */
-@media only screen and (min-width : 1200px) {
+@media only screen and (max-width : 545px) {
+  body {
+    main {
+      aside {
+        display:block;
+        margin:0;
+        width: 100%;
 
-}
+      }
 
+      article {
+        display:block;
+        max-width: 95%;
+        width: 100%;
+        margin: 0px auto 25px auto;
 
-
-/*==========  Non-Mobile First Method  ==========*/
-
-/* Large Devices, Wide Screens */
-@media only screen and (max-width : 1200px) {
-
-}
-
-/* Medium Devices, Desktops */
-@media only screen and (max-width : 992px) {
-
-}
-
-/* Small Devices, Tablets */
-@media only screen and (max-width : 768px) {
-
-}
-
-/* Extra Small Devices, Phones */
-@media only screen and (max-width : 480px) {
-
-}
-
-/* Custom, iPhone Retina */
-@media only screen and (max-width : 320px) {
-
+        .north_michigan_shops {
+          margin: 15px auto 0 auto;
+          width: 100%;
+          text-align:center;
+        }
+      }
+    }
+  }
 }

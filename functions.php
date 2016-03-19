@@ -70,4 +70,3 @@ function prefix_add_my_stylesheet() {
   wp_enqueue_style( 's452-style' );
 
 }
-?>
