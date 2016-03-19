@@ -6,7 +6,7 @@ while (have_posts()) : the_post(); ?>
   <aside>
     <?php
     if ( has_post_thumbnail() ) {
-      the_post_thumbnail();
+      the_post_thumbnail('full');
     }
     else {
       echo '<img src="/wp-content/uploads/2016/03/default_side_image.jpg" alt="Are You Chicago" title="Are You Chicago">';
@@ -25,7 +25,27 @@ while (have_posts()) : the_post(); ?>
       }
     ?>
     <h1><?php the_title(); ?></h1>
-    <?php the_content(); ?>
+    <?php
+      //print content if not FAQ page
+      if (get_the_ID() <> 37)
+        the_content();
+      else {
+
+        $args = array(
+          'post_type' => 'faq',
+          'posts_per_page' => -1,
+          'post_status' => 'publish',
+          'caller_get_posts'=> 1
+        );
+
+        $my_query = new WP_Query($args);
+
+        while ($my_query->have_posts()) : $my_query->the_post();
+          $title = $my_query->get_the_title();
+          echo get_the_title();
+        endwhile;
+      }
+    ?>
   </article>
 
   <div class="_clear"></div>

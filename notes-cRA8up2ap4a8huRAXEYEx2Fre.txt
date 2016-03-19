@@ -1,0 +1,43 @@
+==========
+NOTES
+==========
+-privacy statement
+-minify head when added responsive menu
+-security plugin to hide
+-CREATE DEV
+
+==========
+PLUGINS
+==========
+- automatic plugin updates
+- backup buddy
+- enable media replace
+- toolset types
+- post type orders
+
+==========
+PACKAGE
+==========
+-list of items
+-training video
+-credentials - cpanel + ftp
+-url
+-username + password
+-print out of easy doc
+-backup
+-github sourcecode
+-invoice
+-youtube link
+-package sent priority
+-original psd
+-screenshots
+
+==========
+MAINTENANCE
+==========
+-monitoring service
+-monthly backups
+-hourly tech support
+-analytics stats
+-upgrade / updates
+-package sent priority
