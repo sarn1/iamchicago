@@ -11,7 +11,6 @@ Style
   font-style: normal;
 }
 
-
 ._center {
   text-align:center;
 }
@@ -66,7 +65,6 @@ body {
       @include inline-block;
     }
 
-
       .social_media_menu {
         max-width: 114px;
         float:right;
@@ -101,7 +99,6 @@ body {
               color: $link-color;
             }
           }
-
         }
       }
     }

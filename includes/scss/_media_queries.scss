@@ -5,11 +5,6 @@ Media Queries
 
 @media only screen and (max-width : 1125px) {
   body {
-
-    header {
-      //padding-right:0;
-    }
-
     h1 {
       font-size: $font-size-lg;
       line-height: $line-height-lg;
@@ -27,7 +22,6 @@ Media Queries
         @include inline-block;
         float:none;
         width: 47%;
-
       }
 
       article {
@@ -61,7 +55,6 @@ Media Queries
 
 @media only screen and (max-width : 950px) {
   body {
-
     header {
       padding: 0 15px 0 15px;
     }
@@ -86,29 +79,28 @@ Media Queries
 
 @media only screen and (max-width : 770px) {
   body {
+    header {
+      .social_media_menu {
+        margin-bottom: 10px;
+      }
 
-      header {
-        .social_media_menu {
-          margin-bottom: 10px;
-        }
+      img.logo {
+        display: block;
+        float: none;
+        margin: auto;
+      }
 
-        img.logo {
-          display: block;
-          float: none;
-          margin: auto;
-        }
+      nav {
+        margin-bottom: 70px;
 
-        nav {
-          margin-bottom: 70px;
-
-          ul {
-            width: 90%;
-            margin: 15px auto;
-            display:block;
-            float:none;
-          }
+        ul {
+          width: 90%;
+          margin: 15px auto;
+          display:block;
+          float:none;
         }
       }
+    }
 
     //responsive menu
     #responsive-menu {
@@ -126,7 +118,6 @@ Media Queries
         display:block;
         margin:0;
         width: 100%;
-
       }
 
       article {
