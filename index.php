@@ -19,7 +19,7 @@ while (have_posts()) : the_post(); ?>
       if (is_front_page()) {
         echo '<img src="/wp-content/uploads/2016/03/900-north-michigan-shops.jpg" class="north_michigan_shops" alt="900 North Michigan Shops" title="900 North Michigan Shops">';
 
-        if (!empty(get_post_meta(get_the_ID(),'homepage_subtext',true))) {
+        if (!is_null(get_post_meta(get_the_ID(),'homepage_subtext',true)) && get_post_meta(get_the_ID(),'homepage_subtext',true) <> "") {
           echo '<div class="subtext">'.get_post_meta(get_the_ID(), 'homepage_subtext', true).'</div>';
         }
       }

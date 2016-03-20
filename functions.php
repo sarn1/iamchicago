@@ -28,29 +28,6 @@ function jet4_register_nav_menus() {
   }
 }
 
-
-
-//register widget areas
-
-add_action('init','jet4_register_widget_areas');
-function jet4_register_widget_areas() {
-  global $widgetareas;
-  if (function_exists('register_sidebar')) {
-	foreach ($widgetareas as $widgetarea) {
-	  register_sidebar(array(
-		  'name'          => $widgetarea,
-		  'id'            => sanitize_title($widgetarea),
-		  'before_widget' => '<div id="%1$s" class="widget '.(string)sanitize_title($widgetarea).' %2$s %1$s">',
-		  'after_widget'  => '</div>',
-		  'before_title'  => '<h2>',
-		  'after_title'   => '</h2>'
-	  ));
-	}
-  }
-}
-
-
-
 //register theme script
 
 add_action('init','jet4_register_theme_script');
