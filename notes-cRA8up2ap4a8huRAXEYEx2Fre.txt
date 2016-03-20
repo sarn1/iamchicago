@@ -14,5 +14,5 @@ PLUGINS
 - responsive menu
 - ag custom admin settings
 - login lockdown
-
+- captcha on login
 
