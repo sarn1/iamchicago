@@ -48,6 +48,11 @@ body {
     line-height: $line-height-lg;
   }
 
+  h3 {
+    font-size: $font-size-md-2;
+    line-height: $line-height-md-2;
+  }
+
   img {
     @include responsive-img;
   }
@@ -66,7 +71,7 @@ body {
     }
 
       .social_media_menu {
-        max-width: 114px;
+        max-width: 138px;
         float:right;
       }
 
@@ -182,6 +187,7 @@ body {
   &.home .subtext {
     color: $link-color;
     font-size: $font-size-lg;
+    line-height: $font-size-lg;
     margin: 35px 0 -10px 0;
   }
 
@@ -210,5 +216,10 @@ body {
         font-weight:bold;
       }
     }
+  }
+
+  /* contactform7 */
+  .ajax-loader {
+    max-width: 16px;
   }
 }
