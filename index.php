@@ -17,15 +17,12 @@ while (have_posts()) : the_post(); ?>
   <article>
     <?php
       if (is_front_page()) {
-        echo '<img src="/wp-content/uploads/2016/03/900-north-michigan-shops.jpg" class="north_michigan_shops" alt="900 North Michigan Shops" title="900 North Michigan Shops">';
-
         if (!is_null(get_post_meta(get_the_ID(),'homepage_subtext',true)) && get_post_meta(get_the_ID(),'homepage_subtext',true) <> "") {
-          echo '<div class="subtext">'.get_post_meta(get_the_ID(), 'homepage_subtext', true).'</div>';
+          echo '<h1>'.get_post_meta(get_the_ID(), 'homepage_subtext', true).'</h1>';
         }
+      } else {
+        echo '<h1>'.get_the_title().'</h1>';
       }
-    ?>
-    <h1><?php the_title(); ?></h1>
-    <?php
 
       //print content if not FAQ page
       if (get_the_ID() <> 37)

@@ -184,11 +184,9 @@ body {
   /* custom */
 
   /* home */
-  &.home .subtext {
+  &.home h1 {
     color: $link-color;
-    font-size: $font-size-lg;
-    line-height: $font-size-lg;
-    margin: 35px 0 -10px 0;
+    margin: 5px auto 25px auto;
   }
 
   &.home .north_michigan_shops {
